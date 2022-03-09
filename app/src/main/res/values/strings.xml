@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="lable_pokemon_name">Pikachu #025</string>
+    <string name="lable_height">Height</string>
+    <string name="lable_weight">Weight</string>
+    <string name="lable_type">Type</string>
+    <string name="lable_weakness">Ground</string>
+    <string name="lable_poison">Poison</string>
+    <string name="label_ice">Ice</string>
+    <string name="label_fire">Fire</string>
+    <string name="label_fly">Flying</string>
+    <string name="label_psychic">Psychic</string>
+</resources>
